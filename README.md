@@ -3,16 +3,16 @@
   <img src="Logo/Priyanka Mohan.jpg" alt="Team Idiots LOGO">
 </p>
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> 𝐏𝐑𝐈𝐘𝐀𝐍𝐊𝐀 𝐌𝐎𝐇𝐀𝐍 𝐁𝐎𝐓 </b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/MrMKN/PROFESSOR-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
+[![Stars](https://img.shields.io/github/stars/Itachi-Uchiha-Naruto/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/Itach-Uchiha-Naruto/PROFESSOR-BOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/Itachi-Uchiha-Naruto/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/Itachi-uchiha-Naruto/PROFESSOR-BOT/fork)
+[![Size](https://img.shields.io/github/repo-size/Itachi-Uchiha-Naruto/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/Itachi-Uchiha-Naruto/PROFESSOR-BOT)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Itachi-Uchiha-Naruto/PROFESSOR-BOT)   
+[![Contributors](https://img.shields.io/github/contributors/Itachi-Uchiha-Naruto/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/Itachi-Uchiha-Naruto/PROFESSOR-BOT/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Itachi-Uchiha-Naruto/PROFESSOR-BOT/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/Itachi-Uchiha-Naruto/PROFESSOR-BOT.svg)](https://stars.medv.io/Itachi-Uchiha-Naruto/PROFESSOR-BOT)
 
 
 
